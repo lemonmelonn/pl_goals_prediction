@@ -209,6 +209,7 @@ __marimo__/
 # Folders
 data/
 football/
+models/
 
 # Model Training Artifacts
 
